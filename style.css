@@ -1,0 +1,26 @@
+#imagen{
+    width:100px;
+    height:500x;
+    border: none;
+}
+#imagen1{
+    width:1350px;
+    height:700px;
+    border: none;
+    margin-top:0px; 
+margin-left: 0px;
+margin-left: 0px;
+margin: bottom 0px;
+}
+.travel_mainDiv{
+    border: 1px gris claro sólido ;
+}
+.travel_mainDiv img{
+    width: 100%;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
